@@ -1,0 +1,151 @@
+*{
+
+margin: 0;
+padding: 0;
+}
+.heading{
+	width: 100%;
+display: flow-root;
+}
+
+.container{
+width: 1100px;
+margin: 0 auto;
+}
+.main-header{
+width: 100%;
+float: left;
+margin: 25px 0px;
+
+}
+.logo{
+width: 30%;
+float: left;
+
+}
+
+.menu{
+width: 65%;
+float: right;
+text-align: right;
+
+}
+.menu ul li {
+	display: inline-block;
+	list-style: none;
+	margin-left: 20px;
+}
+.banner{
+
+	width: 100%;
+	display: flow-root;
+}
+
+.post{
+
+
+
+}
+
+.post-details{
+	margin: 80px;
+}
+
+.post-details h1{
+margin: 15px 0px;
+font-weight: 300;
+
+}
+.post-details span{
+	color: grey;
+}
+
+.post-details p{
+
+	margin-bottom: 43px;
+}
+
+.blog-gallary{
+	width:100%;
+	display: flow-root;
+}
+
+.gallary{
+	width: 87%;
+	float: left;
+	margin: 80px;
+}
+.left{
+width: 47%;
+float: left;
+margin: 10px;
+}
+.right{
+	width: 47%;
+	float: right;
+    margin: 10px;
+}
+.post-body img{
+	margin-bottom: 30px;
+	
+}
+.post-body h1{
+	margin: 20px 0px;
+	font-weight: 300
+}
+.subscribe{
+	width: 100%;
+	display: flow-root;
+background: #f0f0f0;
+padding: 80px 0;
+text-align: center;
+}
+.title{
+	margin-bottom: 30px;
+
+}
+.title h1{
+	font-weight: 400;
+
+}
+form{
+	position: relative;
+}
+form input{
+width: 30%;
+padding: 20px 0px;
+border: none;
+background: transparent;
+border-bottom: 2px solid black;
+
+}
+form input:focus{
+	outline: none;
+}
+form i{
+
+	position: absolute;
+	
+}
+.load{
+padding: 80px 0px;
+	text-align: center;
+}
+.b button{
+	padding: 20px 35px;
+	background: transparent;
+	border-radius: 0;
+	outline: none;
+	border: none;
+	border: 1px solid grey;
+}
+.ff{
+	width: 100%;
+	display: flow-root;
+background: #f0f0f0;
+
+}
+.f-body ul li{
+display: inline-block;
+margin: 40px;
+}
